@@ -1,8 +1,8 @@
 tugas uas pbo IV
 
-Nama: Irgi Ahmadsyah
+Nama: Muhammad Afriansyah
 
-NPM: 1101181082
+NPM: 1101181084
 
 Kelas: Ti-03
 
